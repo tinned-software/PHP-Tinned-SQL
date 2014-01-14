@@ -7,7 +7,7 @@
  * @package framework
  * @subpackage database
  *
- * SQLite3 class file
+ * Class to SQLite3 database functionality.
  * 
 **/
 
